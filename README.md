@@ -2,19 +2,15 @@
 
 ![ga111o github stats](https://github-readme-stats.vercel.app/api?username=ga111o&line_height=20&show_icons=true&theme=dracula)
 [![ga111o top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ga111o&layout=compact)](https://github.com/ga111o/github-readme-stats)
-
-<hr />
-
-<img src="./img/neofetch.jpg" style="border-radius:15px; width:500px">
+<img src="./img/neofetch.png" style="border-radius:15px; height:160px">
 
 <hr/>
 
 <br/>
-<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fga111o&count_bg=%23602002&title_bg=%23EA4F05&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://rateyourmusic.com/~ga11o" style="background-color: rgba(0,0,0,0); height:22px; width:30px; border-radius:5px; display:inline-block; text-align:center; padding:0 10px; text-decoration:none; color:white; font-size:12px; line-height:32px; margin:0;">
-<img src="./img/rym.png" style="width:13px; vertical-align:middle; margin-bottom: 12px;" />
+<a href="https://rateyourmusic.com/~ga11o">
+<img src="./img/rym.png" alt="rateyourmusic.com linked icon" style="width:13px; vertical-align:middle; margin-bottom: 12px;" />
 </a>
 
 ![python logo](https://img.shields.io/badge/Pyhon-3776AB?style=flat&logo=python&logoColor=white)
