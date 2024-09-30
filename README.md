@@ -22,6 +22,8 @@
 ![fast api logo](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![langchain logo](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![react logo](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![vue logo](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+
 
 ![mysql logo](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![mysql logo](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
