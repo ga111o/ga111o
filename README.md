@@ -1,5 +1,5 @@
-<center>
-
+<div align="center">
+  
 <!-- ![ga111o github stats](https://github-readme-stats.vercel.app/api?username=ga111o&line_height=20&show_icons=true&theme=dracula) -->
 
 [![ga111o top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ga111o&layout=compact)](https://github.com/ga111o/github-readme-stats)
@@ -31,4 +31,4 @@
 ![postman logo](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![postman logo](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-</center>
+</div>
