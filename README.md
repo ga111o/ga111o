@@ -26,9 +26,10 @@
 
 
 ![mysql logo](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![mysql logo](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![postman logo](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![postman logo](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![postman logo](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLite logo](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Postman logo](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![AmazonEC2 logo](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![Docker logo](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins logo](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 </div>
