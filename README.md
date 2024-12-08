@@ -2,10 +2,10 @@
   
 <!-- ![ga111o github stats](https://github-readme-stats.vercel.app/api?username=ga111o&line_height=20&show_icons=true&theme=dracula) -->
 
-[![ga111o top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ga111o&layout=compact)](https://github.com/ga111o/github-readme-stats)
-<img src="./img/neofetch.png" style="border-radius:15px; height:165px" />
+<!-- [![ga111o top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ga111o&layout=compact)](https://github.com/ga111o/github-readme-stats) -->
+<!-- <img src="./img/neofetch.png" style="border-radius:15px; height:165px" /> -->
 
-<hr/>
+<!-- <hr/> -->
 
 <br/>
 
