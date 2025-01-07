@@ -20,6 +20,7 @@
 
 ![flask logo](https://img.shields.io/badge/Flask-00599C?style=flat&logo=flask&logoColor=white)
 ![fast api logo](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![express logo](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![langchain logo](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![react logo](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![vue logo](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
