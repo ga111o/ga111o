@@ -14,10 +14,6 @@
 <img src="./img/rym.png" alt="rateyourmusic.com linked icon" style="width:20px;" />
 </a>
 
-![python logo](https://img.shields.io/badge/Pyhon-3776AB?style=flat&logo=python&logoColor=white)
-![javascript logo](https://img.shields.io/badge/JavaScrip-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![cpp logo](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
 ![flask logo](https://img.shields.io/badge/Flask-00599C?style=flat&logo=flask&logoColor=white)
 ![fast api logo](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![express logo](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
