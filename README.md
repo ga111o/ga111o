@@ -21,9 +21,12 @@
 ![react logo](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![vue logo](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
+![pytorch logo](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![tensorflow logo](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ![mysql logo](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite logo](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![postgresql logo](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Postman logo](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![AmazonEC2 logo](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![Docker logo](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
